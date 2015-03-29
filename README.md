@@ -10,4 +10,4 @@ RFID examples for Arduino. In the [wiki](https://github.com/alex5imon/Arduino-RF
 - [Miguel Balboa](https://github.com/miguelbalboa) for his [RFID library](https://github.com/miguelbalboa/rfid)
 
 ## License
-This project is license under the MIT license.
+This project is licensed under the MIT license.
